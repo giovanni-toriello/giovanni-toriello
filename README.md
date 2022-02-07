@@ -6,8 +6,9 @@
   <br/> I'm a backend developer  
     <br/>Fulltime CS student in University of Salerno 📚💻.
       <br/>
+    <p align="center"><img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /></p>
   </samp>
-  
+<p align="center">
   <a href="https://www.linkedin.com/in/giovanni-toriello-55a57622b">
   <img align="center" alt="Giovanni's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -17,6 +18,7 @@
   <a href="giovanni.toriello@outlook.it">
   <img align="center" alt="Giovanni's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
+  </p>
   </p>
   <p align="center">
 <img src="https://komarev.com/ghpvc/?username=giovanni-toriello&color=blueviolet"></p>
@@ -34,7 +36,7 @@
   <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
 </p>
 
-<p align="center"><img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /></p>
+
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=giovanni-toriello&show_icons=true&theme=gotham"></a>
