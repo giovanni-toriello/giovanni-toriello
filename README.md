@@ -1,16 +1,42 @@
-### Hi there 👋
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hey There!
 
-<!--
-**giovanni-toriello/giovanni-toriello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" >
+  <samp>
+    My name is <em>Giovanni</em>.
+  <br/> I'm a backend developer  
+    <br/>Fulltime CS student in University of Salerno 📚💻.
+      <br/>
+  </samp>
+  
+  <a href="https://www.linkedin.com/in/giovanni-toriello-55a57622b">
+  <img align="center" alt="Giovanni's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/giovanni_toriello_/">
+  <img align="center" alt="Giovanni's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="giovanni.toriello@outlook.it">
+  <img align="center" alt="Giovanni's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+  </p>
+  <p align="center">
+<img src="https://komarev.com/ghpvc/?username=giovanni-toriello&color=blueviolet"></p>
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+  <code><img title="SQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /></p>
+<hr>
+
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=giovanni-toriello&show_icons=true&theme=gotham"></a>
+
+<hr>
