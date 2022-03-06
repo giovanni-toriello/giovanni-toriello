@@ -20,8 +20,6 @@
   </a>
   </p>
   </p>
-  <p align="center">
-<img src="https://komarev.com/ghpvc/?username=giovanni-toriello&color=blueviolet"></p>
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
