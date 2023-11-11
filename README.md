@@ -36,9 +36,3 @@
   <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
 </p>
 
-
-<hr>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=giovanni-toriello&show_icons=true&theme=gotham"></a>
-
-<hr>
