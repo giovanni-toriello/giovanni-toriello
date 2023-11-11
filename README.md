@@ -3,8 +3,8 @@
 <p align="center" >
   <samp>
     My name is <em>Giovanni</em>.
-  <br/> I'm a backend developer  
-    <br/>Fulltime CS student in University of Salerno 📚💻.
+  <br/> I'm a developer  
+    <br/>I have a degree in computer science.
       <br/>
     <p align="center"><img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /></p>
   </samp>
