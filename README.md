@@ -8,18 +8,6 @@
       <br/>
     <p align="center"><img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /></p>
   </samp>
-<p align="center">
-  <a href="https://www.linkedin.com/in/giovanni-toriello-55a57622b">
-  <img align="center" alt="Giovanni's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://www.instagram.com/giovanni_toriello_/">
-  <img align="center" alt="Giovanni's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="mailto:giovanni.toriello@outlook.it">
-  <img align="center" alt="Giovanni's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
-  </p>
-  </p>
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
